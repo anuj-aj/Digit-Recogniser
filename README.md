@@ -1,4 +1,4 @@
 Digit recognizer using:
 1. Tensorflow
-2. CNN --error 
+2. CNN -batch gradient descent left
 
